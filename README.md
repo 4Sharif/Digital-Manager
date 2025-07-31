@@ -19,7 +19,7 @@ This management system is a Java-based application built with Swing that allows 
 - **Generate Reports**  
   View basic analytics like employee count by department and generate summary reports.
 
-## Technologies Stack
+## Tech Stack
 
 - Java  
 - Java Swing (for GUI components)  
