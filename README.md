@@ -1,6 +1,6 @@
-# Employee Management System  
+# Digital Management    
 
-This Employee Management System is a Java-based desktop application built with Swing that allows users to manage employee records. Designed as a CRUD system, the application is ideal for small businesses or teams that need a lightweight, local employee record manager.
+This management system is a Java-based desktop application built with Swing that allows users to store and manipulate employee records. Designed as a CRUD system, the application is ideal for small businesses or teams that need a lightweight, local employee record manager.
 
 ## Features
 
