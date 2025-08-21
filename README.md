@@ -22,7 +22,7 @@ This management system is a Java-based application built with Swing that allows 
 ## Tech Stack
 
 - Java  
-- Java Swing (for GUI components)  
+- Java Swing library (for GUI components)  
 - ArrayLists and HashMaps (for in-memory data management)
 
 ## Setup
